@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Hilarina Christy</h1>
 <h3 align="center">A Second Year Undergraduate at SLIIT.</h3>
 
-<img align="center" alt="Coding" width="1000" height="500" src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/10/ethical-hacking-legal.jpg">
+<img align="center" alt="Coding" width="1000" height="450" src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/10/ethical-hacking-legal.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hilarinachristy&label=Profile%20views&color=0e75b6&style=flat" idth="20" height="20" alt="hilarinachristy" /> </p>
 
